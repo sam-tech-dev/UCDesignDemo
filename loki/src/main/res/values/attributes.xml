@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <attr name="fontFamily" format="string" />-->
+    <attr name="optionIcon" format="reference" />
+    <attr name="optionText" format="string" />
+    <attr name="text" format="reference" />
+    <attr name="textColor" format="color" />
+    <attr name="prefix" format="string" />
+    <attr name="textSize" format="dimension" />
+    <attr name="errorText" format="string" />
+    <attr name="iconText" format="reference" />
+    <attr name="iconSize" format="dimension" />
+    <attr name="iconColor" format="color" />
+
+    <!--    <attr name="fontFamily" format="string" />-->
+
+
+    <attr name="lokiColorPrimary" format="reference|color" />
+    <attr name="lokiColorPrimaryDarken_20" format="reference|color" />
+    <attr name="lokiColorPrimaryLighten_15" format="reference|color" />
+    <attr name="lokiColorPrimaryLighten_25" format="reference|color" />
+    <attr name="lokiColorPrimaryLighten_95" format="reference|color" />
+
+    <attr name="lokiColorSecondary" format="reference|color" />
+    <attr name="lokiColorSecondaryLighten_25" format="reference|color" />
+    <attr name="lokiColorSecondaryLighten_40" format="reference|color" />
+    <attr name="lokiColorSecondaryLighten_55" format="reference|color" />
+
+    <attr name="lokiColorSuccess" format="reference|color" />
+    <attr name="lokiColorSuccessLighten_25" format="reference|color" />
+    <attr name="lokiColorSuccessLighten_85" format="reference|color" />
+    <attr name="lokiColorSuccessLighten_95" format="reference|color" />
+
+    <attr name="lokiColorModerate" format="reference|color" />
+    <attr name="lokiColorModerateLighten_25" format="reference|color" />
+    <attr name="lokiColorModerateLighten_85" format="reference|color" />
+    <attr name="lokiColorModerateLighten_95" format="reference|color" />
+
+    <attr name="lokiColorDanger" format="reference|color" />
+    <attr name="lokiColorDangerLighten_25" format="reference|color" />
+    <attr name="lokiColorDangerLighten_85" format="reference|color" />
+    <attr name="lokiColorDangerLighten_95" format="reference|color" />
+
+    <attr name="loki_fontFamily_regular" format="string" />
+    <attr name="loki_fontFamily_medium" format="string" />
+    <attr name="loki_fontFamily_bold" format="string" />
+
+
+
+
+
+
+    <attr name="loki_H1TextSize" format="dimension" />
+    <attr name="textType">
+        <flag name="H1" value="0" />
+        <flag name="SH1" value="1" />
+        <flag name="H2" value="2" />
+        <flag name="SH2" value="0" />
+        <flag name="Body1" value="1" />
+        <flag name="Footnote1" value="2" />
+        <flag name="Body2" value="1" />
+        <flag name="Footnote2" value="2" />
+    </attr>
+
+
+
+    <declare-styleable name="UCTextView">
+        <attr name="fontFamily" />
+        <attr name="parsedText" />
+        <attr name="android:textStyle"/>
+
+    </declare-styleable>
+
+
+
+
+</resources>

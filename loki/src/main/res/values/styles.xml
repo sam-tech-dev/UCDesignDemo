@@ -1,0 +1,55 @@
+<resources>
+    <style name="LokiTheme">
+
+        <!--start Primary color shades-->
+        <item name="lokiColorPrimary">@color/lokiColorPrimary</item>
+        <item name="lokiColorPrimaryDarken_20">@color/lokiColorPrimaryDarken_20</item>
+        <item name="lokiColorPrimaryLighten_15">@color/lokiColorPrimaryLighten_15</item>
+        <item name="lokiColorPrimaryLighten_25">@color/lokiColorPrimaryLighten_25</item>
+        <item name="lokiColorPrimaryLighten_95">@color/lokiColorPrimaryLighten_95</item>
+        <!--end Primary color shades-->
+
+
+        <!--start secondary color shades-->
+        <item name="lokiColorSecondary">@color/lokiColorSecondary</item>
+        <item name="lokiColorSecondaryLighten_25">@color/lokiColorSecondaryLighten_25</item>
+        <item name="lokiColorSecondaryLighten_40">@color/lokiColorSecondaryLighten_40</item>
+        <item name="lokiColorSecondaryLighten_55">@color/lokiColorSecondaryLighten_55</item>
+        <!--end secondary color shades-->
+
+        <!--start success color shades-->
+        <item name="lokiColorSuccess">@color/lokiColorSuccess</item>
+        <item name="lokiColorSuccessLighten_25">@color/lokiColorSuccessLighten_25</item>
+        <item name="lokiColorSuccessLighten_85">@color/lokiColorSuccessLighten_85</item>
+        <item name="lokiColorSuccessLighten_95">@color/lokiColorSuccessLighten_95</item>
+        <!--end success color shades-->
+
+        <!--start Moderate color shades-->
+        <item name="lokiColorModerate">@color/lokiColorModerate</item>
+        <item name="lokiColorModerateLighten_25">@color/lokiColorModerateLighten_25</item>
+        <item name="lokiColorModerateLighten_85">@color/lokiColorModerateLighten_85</item>
+        <item name="lokiColorModerateLighten_95">@color/lokiColorModerateLighten_95</item>
+        <!--end moderate color shades-->
+
+        <!--start Danger color shades-->
+        <item name="lokiColorDanger">@color/lokiColorDanger</item>
+        <item name="lokiColorDangerLighten_25">@color/lokiColorDangerLighten_25</item>
+        <item name="lokiColorDangerLighten_85">@color/lokiColorDangerLighten_85</item>
+        <item name="lokiColorDangerLighten_95">@color/lokiColorDangerLighten_95</item>
+        <!--end danger color shades-->
+
+
+        <item name="loki_fontFamily_regular">notosans_regular.ttf</item>
+        <item name="loki_fontFamily_medium">notosans_medium.ttf</item>
+        <item name="loki_fontFamily_bold">notosans_bold.ttf</item>
+
+    </style>
+
+
+<!--    <style name="Icon24x24">-->
+<!--        <item name="android:gravity">center</item>-->
+<!--        <item name="android:layout_width">24dp</item>-->
+<!--        <item name="android:layout_height">24dp</item>-->
+<!--    </style>-->
+
+</resources>

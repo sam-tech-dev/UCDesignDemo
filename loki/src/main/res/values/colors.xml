@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="white">#FFFFFF</color>
+
+    <!--start Primary color shades-->
+    <color name="lokiColorPrimary">#0050FF</color>
+    <color name="lokiColorPrimaryDarken_20">#1958E0</color>
+    <color name="lokiColorPrimaryLighten_15">#266AFF</color>
+    <color name="lokiColorPrimaryLighten_25">#4D85FF</color>
+    <color name="lokiColorPrimaryLighten_95">#F2F6FF</color>
+    <!--end Primary color shades-->
+
+
+    <!--start secondary color shades-->
+    <color name="lokiColorSecondary">#222222</color>
+    <color name="lokiColorSecondaryLighten_25">#555555</color>
+    <color name="lokiColorSecondaryLighten_40">#777777</color>
+    <color name="lokiColorSecondaryLighten_55">#999999</color>
+    <!--end secondary color shades-->
+
+    <!--start success color shades-->
+    <color name="lokiColorSuccess">#018B2E</color>
+    <color name="lokiColorSuccessLighten_25">#4DAE6D</color>
+    <color name="lokiColorSuccessLighten_85">#D9EEE0</color>
+    <color name="lokiColorSuccessLighten_95">#F4FEF8</color>
+    <!--end success color shades-->
+
+    <!--start Moderate color shades-->
+    <color name="lokiColorModerate">#FF7C03</color>
+    <color name="lokiColorModerateLighten_25">#FFA34F</color>
+    <color name="lokiColorModerateLighten_85">#FFEBD9</color>
+    <color name="lokiColorModerateLighten_95">#FFF7F0</color>
+    <!--end moderate color shades-->
+
+    <!--start Danger color shades-->
+    <color name="lokiColorDanger">#D80016</color>
+    <color name="lokiColorDangerLighten_25">#E34D5C</color>
+    <color name="lokiColorDangerLighten_85">#F9D9DC</color>
+    <color name="lokiColorDangerLighten_95">#FFF3F4</color>
+    <!--end danger color shades-->
+
+
+    <!--start black color shades-->
+    <color name="baseBlack">#222222</color>
+    <color name="blackLighten_25">#555555</color>
+    <color name="blackLighten_40">#777777</color>
+    <color name="blackLighten_55">#999999</color>
+    <!--end black color shades-->
+
+
+    <!--start grey color shades-->
+    <color name="baseGrey">#F3F3F3</color>
+    <color name="greyDarken_25">#E0E0E0</color>
+    <color name="greyDarken_40">#CCCCCC</color>
+    <color name="greyDarken_55">#BBBBBB</color>
+    <!--end grey color shades-->
+
+
+</resources>

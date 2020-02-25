@@ -1,0 +1,2 @@
+include ':app', ':loki'
+rootProject.name='UCDesignDemo'
