@@ -50,14 +50,11 @@ public class UCTextView extends AppCompatTextView {
 
 
 
-
         int[] styleAttrs = {R.attr.fontFamily, android.R.attr.text};
         TypedArray styleTa = getContext().obtainStyledAttributes(LokiConfig.getInstance().getLokiCustomTheme(), styleAttrs);
         String fontFamilyResourceId = ta.getString(0);
         setFontFamily(fontFamilyResourceId);
         styleTa.recycle();
-
-
     }
 
     public void setFontFamily(String fontFamilyResourceId) {

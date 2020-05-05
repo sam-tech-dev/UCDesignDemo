@@ -12,7 +12,6 @@
 
     <style name="LokiCustomTheme" parent="LokiTheme">
         <item name="loki_fontFamily_regular">pacifico.ttf</item>
-<!--        <item name="loki_fontFamily">@font/pacifico_font_family</item>-->
     </style>
 
 </resources>
