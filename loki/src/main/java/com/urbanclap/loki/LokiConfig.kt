@@ -13,11 +13,6 @@ class LokiConfig private constructor(
 
     constructor(builder: Builder) : this(
         builder.lokiCustomTheme){
-
-        /*val ai = getPackageManager().getApplicationInfo(getPackageName(), PackageManager.GET_META_DATA)
-        val bundle = ai.metaData
-        val myApiKey = bundle.getString("my_test_metagadata")*/
-
         instance = this
     }
 

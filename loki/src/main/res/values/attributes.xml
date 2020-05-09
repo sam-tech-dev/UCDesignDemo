@@ -48,28 +48,29 @@
 
 
 
-
-
-
     <attr name="loki_H1TextSize" format="dimension" />
-    <attr name="textType">
+    <attr name="loki_textType">
         <flag name="H1" value="0" />
         <flag name="SH1" value="1" />
-        <flag name="H2" value="2" />
-        <flag name="SH2" value="0" />
-        <flag name="Body1" value="1" />
-        <flag name="Footnote1" value="2" />
-        <flag name="Body2" value="1" />
-        <flag name="Footnote2" value="2" />
+        <flag name="H2" value="3" />
+        <flag name="SH2" value="4" />
+        <flag name="Body1" value="5" />
+        <flag name="Footnote1" value="6" />
+        <flag name="Body2" value="7" />
+        <flag name="Footnote2" value="8" />
+    </attr>
+
+    <attr name="loki_textStyle">
+        <flag name="normal" value="0" />
+        <flag name="medium" value="1" />
+        <flag name="bold" value="2" />
+        <flag name="italic" value="3" />
     </attr>
 
 
-
     <declare-styleable name="UCTextView">
-        <attr name="fontFamily" />
-        <attr name="parsedText" />
-        <attr name="android:textStyle"/>
-
+        <attr name="loki_textStyle"/>
+        <attr name="loki_textType"/>
     </declare-styleable>
 
 
